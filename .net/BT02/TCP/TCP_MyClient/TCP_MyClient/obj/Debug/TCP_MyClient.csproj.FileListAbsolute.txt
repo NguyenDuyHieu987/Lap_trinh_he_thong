@@ -1,0 +1,8 @@
+D:\Lap_Trinh_He_Thong\.net\BT02\TCP\TCP_MyClient\TCP_MyClient\bin\Debug\TCP_MyClient.exe.config
+D:\Lap_Trinh_He_Thong\.net\BT02\TCP\TCP_MyClient\TCP_MyClient\bin\Debug\TCP_MyClient.exe
+D:\Lap_Trinh_He_Thong\.net\BT02\TCP\TCP_MyClient\TCP_MyClient\bin\Debug\TCP_MyClient.pdb
+D:\Lap_Trinh_He_Thong\.net\BT02\TCP\TCP_MyClient\TCP_MyClient\obj\Debug\TCP_MyClient.csproj.AssemblyReference.cache
+D:\Lap_Trinh_He_Thong\.net\BT02\TCP\TCP_MyClient\TCP_MyClient\obj\Debug\TCP_MyClient.csproj.SuggestedBindingRedirects.cache
+D:\Lap_Trinh_He_Thong\.net\BT02\TCP\TCP_MyClient\TCP_MyClient\obj\Debug\TCP_MyClient.csproj.CoreCompileInputs.cache
+D:\Lap_Trinh_He_Thong\.net\BT02\TCP\TCP_MyClient\TCP_MyClient\obj\Debug\TCP_MyClient.exe
+D:\Lap_Trinh_He_Thong\.net\BT02\TCP\TCP_MyClient\TCP_MyClient\obj\Debug\TCP_MyClient.pdb

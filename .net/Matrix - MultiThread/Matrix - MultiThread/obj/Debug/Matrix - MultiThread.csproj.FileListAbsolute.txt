@@ -1,0 +1,8 @@
+D:\Lap_Trinh_He_Thong\.net\Matrix - MultiThread\Matrix - MultiThread\bin\Debug\Matrix - MultiThread.exe.config
+D:\Lap_Trinh_He_Thong\.net\Matrix - MultiThread\Matrix - MultiThread\bin\Debug\Matrix - MultiThread.exe
+D:\Lap_Trinh_He_Thong\.net\Matrix - MultiThread\Matrix - MultiThread\bin\Debug\Matrix - MultiThread.pdb
+D:\Lap_Trinh_He_Thong\.net\Matrix - MultiThread\Matrix - MultiThread\obj\Debug\Matrix - MultiThread.csproj.AssemblyReference.cache
+D:\Lap_Trinh_He_Thong\.net\Matrix - MultiThread\Matrix - MultiThread\obj\Debug\Matrix - MultiThread.csproj.SuggestedBindingRedirects.cache
+D:\Lap_Trinh_He_Thong\.net\Matrix - MultiThread\Matrix - MultiThread\obj\Debug\Matrix - MultiThread.csproj.CoreCompileInputs.cache
+D:\Lap_Trinh_He_Thong\.net\Matrix - MultiThread\Matrix - MultiThread\obj\Debug\Matrix - MultiThread.exe
+D:\Lap_Trinh_He_Thong\.net\Matrix - MultiThread\Matrix - MultiThread\obj\Debug\Matrix - MultiThread.pdb

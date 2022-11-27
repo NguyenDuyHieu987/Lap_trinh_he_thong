@@ -1,0 +1,8 @@
+D:\Lap_Trinh_He_Thong\.net\VD01_UDP\UDP_MyServer\UDP_MyServer\bin\Debug\UDP_MyServer.exe.config
+D:\Lap_Trinh_He_Thong\.net\VD01_UDP\UDP_MyServer\UDP_MyServer\bin\Debug\UDP_MyServer.exe
+D:\Lap_Trinh_He_Thong\.net\VD01_UDP\UDP_MyServer\UDP_MyServer\bin\Debug\UDP_MyServer.pdb
+D:\Lap_Trinh_He_Thong\.net\VD01_UDP\UDP_MyServer\UDP_MyServer\obj\Debug\UDP_MyServer.csproj.AssemblyReference.cache
+D:\Lap_Trinh_He_Thong\.net\VD01_UDP\UDP_MyServer\UDP_MyServer\obj\Debug\UDP_MyServer.csproj.SuggestedBindingRedirects.cache
+D:\Lap_Trinh_He_Thong\.net\VD01_UDP\UDP_MyServer\UDP_MyServer\obj\Debug\UDP_MyServer.csproj.CoreCompileInputs.cache
+D:\Lap_Trinh_He_Thong\.net\VD01_UDP\UDP_MyServer\UDP_MyServer\obj\Debug\UDP_MyServer.exe
+D:\Lap_Trinh_He_Thong\.net\VD01_UDP\UDP_MyServer\UDP_MyServer\obj\Debug\UDP_MyServer.pdb

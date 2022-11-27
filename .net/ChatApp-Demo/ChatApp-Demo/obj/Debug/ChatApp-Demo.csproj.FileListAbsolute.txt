@@ -1,0 +1,8 @@
+D:\Lap_Trinh_He_Thong\.net\ChatApp-Demo\ChatApp-Demo\bin\Debug\ChatApp-Demo.exe.config
+D:\Lap_Trinh_He_Thong\.net\ChatApp-Demo\ChatApp-Demo\bin\Debug\ChatApp-Demo.exe
+D:\Lap_Trinh_He_Thong\.net\ChatApp-Demo\ChatApp-Demo\bin\Debug\ChatApp-Demo.pdb
+D:\Lap_Trinh_He_Thong\.net\ChatApp-Demo\ChatApp-Demo\obj\Debug\ChatApp-Demo.csproj.AssemblyReference.cache
+D:\Lap_Trinh_He_Thong\.net\ChatApp-Demo\ChatApp-Demo\obj\Debug\ChatApp-Demo.csproj.SuggestedBindingRedirects.cache
+D:\Lap_Trinh_He_Thong\.net\ChatApp-Demo\ChatApp-Demo\obj\Debug\ChatApp-Demo.csproj.CoreCompileInputs.cache
+D:\Lap_Trinh_He_Thong\.net\ChatApp-Demo\ChatApp-Demo\obj\Debug\ChatApp-Demo.exe
+D:\Lap_Trinh_He_Thong\.net\ChatApp-Demo\ChatApp-Demo\obj\Debug\ChatApp-Demo.pdb
